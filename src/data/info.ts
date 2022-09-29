@@ -1,40 +1,36 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
-  name: "Uzair Ahmed",
+  baseUrl: "qudsia.me",
+  name: "Qudsia Hassaan",
   jobDescription: "Web Developer",
-  about: `I'm a software engineer based in Karachi, Pakistan.
-   I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
-   I have been working for 3 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
-   I have 3 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
-   I have successfully completed several web projects from scratch. 
-   Yet, I learn continuously and never stop exploring new technologies.
-   So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python,
-   firebase and React Native with time.
+  about: `I was born in the city of lights Karachi, Pakistan, and went to school in the same city. I love traveling and watching movies with friends and family.
+
+  Currently, I am a 3rd-year student at NED university of engineering and technology. As a student, I don't have so many experiences but I am on my way to making it with good and bad memories.
+  
+  My passion is to learn new technologies and new things in my field. I like to treat people with respect and also enjoy helping people.
+  
   `,
 
   experience: [
     {
-      name: "InterNative Labs, LLC",
+      name: "Abbasi Shaheed Hospital",
       location: "Karāchi, Sindh, Pakistan",
-      startDate: "Apr 2022",
-      endDate: "Present",
+      startDate: "Sep 2022",
+      endDate: "Oct 2022",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "- Working with maintaince department",
+        "- Practicing and getting hands-on experience with several machines.",
       ],
     },
 
     {
-      name: "Coupon Approve (Remote)",
-      location: "Amsterdam, North Holland, Netherlands",
-      startDate: "Nov 2020",
+      name: "Dr. Ziauddin Hospitals",
+      location: "North Nazimabad, Karachi, Sindh,Pakistan",
+      startDate: "March 2022",
       endDate: "Apr 2022",
       description: [
-        "✓ Developing code in accordance with appropriate design and architectural rules",
-        "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
+        "✓ Documenting, testing, maintenance, support of platforms and solutions",
         "✓ Help and training of other colleagues",
         "✓ Others tasks connected to the nature of the job",
-        "✓ Code Improvements and Refactoring ",
         "✓ Best Practices and Rules Maintainer",
       ],
     },
@@ -53,39 +49,39 @@ export const info = {
 
   education: [
     {
-      name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
+      name: "NED University of Engineering and Technology",
       location: "Karāchi, Sindh, Pakistan",
       startDate: "2019",
-      endDate: "2022",
+      endDate: "2023",
       description: [
-        "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
+        "Bachelors in Biomedical engineering",
       ],
     },
     {
-      name: "Govt. Degree Boys College Buffer Zone",
+      name: "BAMM PECHS Govt Girls College",
       location: "Karāchi, Sindh, Pakistan",
-      startDate: "2018",
-      endDate: "2020",
+      startDate: "2017",
+      endDate: "2019",
       description: ["Intermediate, Pre-Engineering"],
     },
     {
-      name: "Ghazi Foundation Schools & Colleges",
+      name: "Hilton Public School",
       location: "Karāchi, Sindh, Pakistan",
-      startDate: "2016",
-      endDate: "2018",
-      description: ["Matriculation,  Computer Science"],
+      startDate: "2015",
+      endDate: "2017",
+      description: ["Matriculation,  Science"],
     },
   ],
 
   socialMedia: {
-    facebook: "https://www.facebook.com/profile.php?id=100022899849583",
-    twitter: "https://twitter.com/Uzzii_21",
-    github: "https://github.com/uzzii-21",
-    email: "uzairahmed@74372gmail.com",
-    linkedin: "https://www.linkedin.com/in/uzzii21/",
+    facebook: "https://www.facebook.com/sidra.hassaan.33/",
+    twitter: "https://twitter.com/qudsia_hassaan",
+    github: "https://github.com/qudsia-hassaan",
+    email: "qudsiahassaan25gmail.com",
+    linkedin: "https://www.linkedin.com/in/qudsia-hassaan/",
   },
 
-  projects: [
+  /*projects: [
     {
       title: "Astro Portfolio",
       isFeatured: true,
@@ -93,5 +89,5 @@ export const info = {
       githubUrl: "https://github.com/uzzii-21/astro-portfolio",
       liveUrl: "https://astro-portfolio-uzair.vercel.app/",
     },
-  ],
+  ],*/
 };
