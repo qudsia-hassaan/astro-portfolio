@@ -81,7 +81,7 @@ export const info = {
     linkedin: "https://www.linkedin.com/in/qudsia-hassaan/",
   },
 
-  /*projects: [
+  projects: [
     {
       title: "Astro Portfolio",
       isFeatured: true,
@@ -89,5 +89,5 @@ export const info = {
       githubUrl: "https://github.com/uzzii-21/astro-portfolio",
       liveUrl: "https://astro-portfolio-uzair.vercel.app/",
     },
-  ],*/
+  ],
 };
