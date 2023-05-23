@@ -92,7 +92,7 @@ export const info = {
     {
       title: "Patient Bed Movement Control and Pressure Monitoring App",
       isFeatured: true,
-      thumbnail: "/assets/images/mobile.png",
+      thumbnail: "/assets/images/mobile.jpeg",
     },
   ],
 };
